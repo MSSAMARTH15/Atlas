@@ -1,0 +1,16 @@
+.env
+
+__pycache__/
+*.py[cod]
+
+.vscode/
+
+venv/
+.venv/
+
+storage/repositories/
+
+node_modules/
+
+dist/
+build/

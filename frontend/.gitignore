@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Repository clones
+storage/repositories/
+storage/cache/
+storage/reports/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
